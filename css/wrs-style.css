@@ -1,0 +1,6 @@
+/**
+ * Hide the sku from product description page.
+ */
+body.single-product.woocommerce div.product div.product_meta {
+    display: none !important;
+}
